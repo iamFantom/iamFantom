@@ -36,14 +36,14 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 [Jarvis — AI Voice Assistant](https://github.com/MuhammadAhmed784/personal-voice-assistant)
+#### 🤖 [Jarvis — AI Voice Assistant](https://github.com/iamFantom/personal-voice-assistant)
 > A Python-based personal voice assistant powered by **Google Gemini 2.5 Flash**. Responds to a wake word, plays music, reads live news, opens websites, and answers any question using AI.
 >
 > `Python` `Gemini AI` `Speech Recognition` `gTTS` `Pygame` `NewsAPI`
 
 ---
 
-#### 🚗 [Car Malfunction Detector](https://github.com/MuhammadAhmed784/car-malfunction-detector)
+#### 🚗 [Car Malfunction Detector](https://github.com/iamFantom/car-malfunction-detector)
 > An AI-powered system that detects and diagnoses car malfunctions. Built to demonstrate practical ML applications in the real world.
 >
 > `Python` `Machine Learning` `AI`
