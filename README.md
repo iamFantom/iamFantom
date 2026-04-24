@@ -1,67 +1,82 @@
-<h1 align="center">Hi, I'm Ahmed 👋</h1>
-
-<h3 align="center">AI & Machine Learning Enthusiast | Building Intelligent Systems | Open to Internships</h3>
-
-<br/>
+<h1 align="center">Hey there, I'm Ahmed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+Student;Building+AI+Agents+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />
+  <em>Networking enthusiast · CS Student · Aspiring Network Engineer</em>
 </p>
 
----
-
-### 🧠 About Me
-
-- 🎓 Software Engineering student based in **Karachi, Pakistan**
-- 🤖 Passionate about **AI, Machine Learning, and AI Agents**
-- 🔭 Currently building intelligent systems and exploring **AI automation**
-- 🌱 Always learning — right now diving deeper into **LLMs and agentic workflows**
-- 💼 Actively looking for **internships and opportunities** in AI/ML
-- ⚡ Fun fact: I built my own voice assistant powered by Google Gemini!
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 [Jarvis — AI Voice Assistant](https://github.com/iamFantom/personal-voice-assistant)
-> A Python-based personal voice assistant powered by **Google Gemini 2.5 Flash**. Responds to a wake word, plays music, reads live news, opens websites, and answers any question using AI.
->
-> `Python` `Gemini AI` `Speech Recognition` `gTTS` `Pygame` `NewsAPI`
-
----
-
-#### 🚗 [Car Malfunction Detector](https://github.com/iamFantom/car-malfunction-detector)
-> An AI-powered system that detects and diagnoses car malfunctions. Built to demonstrate practical ML applications in the real world.
->
-> `Python` `Machine Learning` `AI`
-
----
-
-
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="www.linkedin.com/in/syed-muhammad-ahmed-sma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-muhammad-ahmed-sma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="syedmuhammadahmed010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:syedmuhammadahmed010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=iamFantom&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 CS student in my **6th semester**, based in **Karachi, Pakistan**
+- 🌐 Passionate about **networking & IT infrastructure** — it's where I want to build my career
+- 🛠️ Built an **AI-powered Car Malfunction Detector** as a university project
+- 🔐 Completed a **HackTheBox Academy** course in cybersecurity fundamentals
+- 🔭 Currently exploring internship & entry-level opportunities in **Pakistan & Germany**
+- 📫 Always open to collaborating on networking, infrastructure, or interesting tech projects
+
+---
+
+## 🛠️ Skills & Tools
+
+**Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Security & Tools**
+
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 🚗 Car Malfunction Detector
+> An AI-powered system that detects vehicle malfunctions using sensor data and machine learning.
+
+- Trained a classifier to identify common car faults from diagnostic signals
+- Built with Python and basic ML libraries
+- Practical application of AI in automotive diagnostics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamFantom&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamFantom&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌍 Currently
+
+- 📚 Deepening my knowledge in **CCNA-level networking concepts**
+- 💼 Actively looking for **networking/IT internships** (Pakistan & Germany)
+- 🧠 Sharpening skills on **HackTheBox** and networking labs
+
+---
+
+<p align="center">
+  <i>"The network is the computer." – John Gage</i>
+</p>
